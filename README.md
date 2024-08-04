@@ -1,4 +1,19 @@
+Hi 👋, I'm Abdelaziz
+A Flutter Mobile Developer
+
+
+
+
+💬 Ask me about android, flutter and enterprise mobility
+
+📫 How to reach me abdelazizmohameddewedar@gmail.com
+
+📄 Know about my experiences [https://www.linkedin.com/in/abdelaziz-mohamed-a42976284/ 
+]
+⚡ Fun fact I think I am funny 😂
+
 Welcome to My GitHub Profile! 👋
+
 About Me
 Hey there! I'm [Abdelaziz Mohamed], a passionate Flutter developer with expertise in building robust and user-friendly mobile applications. I have [2 years] of experience in software development, specializing in Flutter and Dart.
 
@@ -10,9 +25,7 @@ RESTful APIs: Integration of RESTful APIs to fetch and display data in Flutter a
 Firebase: Utilization of Firebase services like Firestore, Authentication, Cloud Functions, build scalable applications.
 Version Control: Strong command of Git for version control, including branching, merging, and pull requests.
 
-How to Reach Me
-LinkedIn:https://www.linkedin.com/in/abdelaziz-mohamed-a42976284/ 
-Email: abdelazizmohameddewedar@gmail.com
+
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaboration opportunities!
 
 Happy coding! 🚀
