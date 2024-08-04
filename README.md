@@ -1,16 +1,18 @@
-## Hi there 👋
+Welcome to My GitHub Profile! 👋
+About Me
+Hey there! I'm [Abdelaziz Mohamed], a passionate Flutter developer with expertise in building robust and user-friendly mobile applications. I have [2 years] of experience in software development, specializing in Flutter and Dart.
 
-<!--
-**AbdelazizMohamed-GitHub/AbdelazizMohamed-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+Flutter & Dart: Proficient in building cross-platform mobile applications with Flutter, leveraging Dart language features and Flutter's rich widget library.
+UI/UX Design: Experience in crafting beautiful and responsive UIs using Flutter's widget system and third-party libraries.
+State Management: Familiar with various state management techniques in Flutter such as Provider, Bloc.
+RESTful APIs: Integration of RESTful APIs to fetch and display data in Flutter apps using packages like Dio, HTTP, etc.
+Firebase: Utilization of Firebase services like Firestore, Authentication, Cloud Functions, build scalable applications.
+Version Control: Strong command of Git for version control, including branching, merging, and pull requests.
 
-Here are some ideas to get you started:
+How to Reach Me
+LinkedIn: 
+Email: abdelazizmohameddewedar@gmail.com
+Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaboration opportunities!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy coding! 🚀
