@@ -8,7 +8,7 @@ A Flutter Mobile Developer
 
 📫 How to reach me abdelazizmohameddewedar@gmail.com
 
-📄 Know about my experiences 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+📄 Know about my experiences 	https://www.linkedin.com/in/abdelaziz-mohamed-a42976284/
 
 ⚡ Fun fact I think I am funny 😂
 
