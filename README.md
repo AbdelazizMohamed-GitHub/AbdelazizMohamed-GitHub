@@ -11,7 +11,7 @@ Firebase: Utilization of Firebase services like Firestore, Authentication, Cloud
 Version Control: Strong command of Git for version control, including branching, merging, and pull requests.
 
 How to Reach Me
-LinkedIn: 
+LinkedIn:https://www.linkedin.com/in/abdelaziz-mohamed-a42976284/ 
 Email: abdelazizmohameddewedar@gmail.com
 Feel free to explore my repositories and projects. Don't hesitate to reach out if you have any questions or collaboration opportunities!
 
