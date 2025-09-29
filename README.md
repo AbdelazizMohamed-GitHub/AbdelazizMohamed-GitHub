@@ -28,7 +28,7 @@
 ## 💬 Ask Me About
 
 * 📱 **Flutter** & **Dart**
-* 🔗 **RESTful APIs** & **Supabase**
+* 🔗 **RESTful APIs** & **Firebase**
 * 🏢 **Enterprise Mobility Solutions**
 
 ---
