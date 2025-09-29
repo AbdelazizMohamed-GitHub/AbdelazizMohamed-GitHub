@@ -6,11 +6,11 @@
 
 ## 👨‍💻 About Me
 
+* 🎓 Graduated with a degree in **Computer Science**.
 * 🔹 Passionate about building **robust, user-friendly, and scalable mobile apps** using **Flutter & Dart**.
 * 🔹 2+ years of experience in **software development & enterprise mobility**.
 * 🔹 Strong background in **Firebase**, **RESTful APIs**, and **Supabase** for backend integration.
 * 🌱 Always learning & exploring new technologies to level up my skills.
-
 ---
 
 ## 🛠️ Tech Stack
